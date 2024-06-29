@@ -48,10 +48,20 @@ The data used in this project is sourced from:
 
 ### Visualizations
 **Bar Charts:** Used to show the distribution of children by age group, gender, and reasons for entering foster care.
+![Bar](https://github.com/Venu-Jakkula/Visualizing-Foster-Care-Trends-in-the-USA-Using-Tableau/assets/171456105/d0f90f36-0c1c-41c9-a3ac-44085d37466b)
+
 **Line Graphs:** Illustrated trends over time in the number of children in foster care, adoptions, and exits.
+![Line Graph](https://github.com/Venu-Jakkula/Visualizing-Foster-Care-Trends-in-the-USA-Using-Tableau/assets/171456105/e2644f36-5e6f-4fbe-8e3f-16475678727e)
+
 **Pie Charts:** Displayed the proportion of children in foster care by racial/ethnic group and exit reasons.
+![Bar and pie chart](https://github.com/Venu-Jakkula/Visualizing-Foster-Care-Trends-in-the-USA-Using-Tableau/assets/171456105/5dd69c5a-d218-445d-8ed3-023609ca8a23)
+
 **Heatmaps:** Highlighted regional disparities in foster care statistics across different states.
+![Heat Map](https://github.com/Venu-Jakkula/Visualizing-Foster-Care-Trends-in-the-USA-Using-Tableau/assets/171456105/e8e6a34b-39c8-4cf0-a3ca-008505ea8651)
+
 **Scatter Plots:** Used to analyze correlations between age and likelihood of adoption.
+![BUBBLE CHART](https://github.com/Venu-Jakkula/Visualizing-Foster-Care-Trends-in-the-USA-Using-Tableau/assets/171456105/5d7b468e-3829-4d22-8ed6-10b221e36761)
+
 
 ### Results/Findings
 
